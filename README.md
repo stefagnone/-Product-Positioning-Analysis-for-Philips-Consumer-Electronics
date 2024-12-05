@@ -1,35 +1,37 @@
 ## Project Overview
-In this project, I conducted a comprehensive market and consumer analysis for Philips Consumer Electronics to support the positioning of a new product, referred to as "Product X." The analysis focused on understanding the competitive landscape, identifying key competitors, and uncovering consumer perceptions and needs related to similar products. The ultimate goal was to provide Philips with actionable insights for strategically positioning Product X in a competitive market.
+This project aimed to analyze the competitive landscape and consumer perceptions for Philips Consumer Electronics' new earphones, referred to as Product X. The goal was to provide actionable insights to help Philips effectively position their product in a competitive market.
 
-The analysis involved:
-- Conducting a competitor analysis to assess similar products and market trends.
-- Designing and implementing a consumer survey to capture attitudes, needs, and perceptions.
-- Analyzing survey data to identify the primary factors influencing purchasing decisions.
+The analysis focused on:
+- **Market Research**: Investigating the competitive landscape and identifying key trends.
+- **Consumer Sentiment**: Conducting a survey to collect consumer perceptions, needs, and preferences.
+- **Statistical Analysis**: Performing descriptive, correlation, and regression analyses to identify factors that influence purchasing decisions.
+- **Business Recommendations**: Providing data-driven insights for product positioning and marketing strategy.
 
-This project highlights skills in market research, consumer behavior analysis, and competitive positioning.
+This project demonstrates expertise in market research, survey design, data analysis, and actionable business strategy formulation.
 
 ## Technologies Used
-- **Excel/Google Sheets**: Data collection, cleaning, and descriptive statistics
-- **SPSS/R**: Statistical analysis, including correlation and regression analysis
-- **SurveyMonkey/Google Forms**: Survey design and data collection
-- **Microsoft PowerPoint**: Presentation of insights and recommendations
-- **Video Creation Tool (e.g., Zoom, Loom)**: Recorded video presentation summarizing findings
+- **Excel**: Dataset creation, data cleaning, and statistical analysis
+- **Regression and Correlation Analysis**: To identify key predictors of consumer purchase behavior
+- **PowerPoint**: Slidedeck creation for presenting findings and recommendations
+- **Survey Design**: Custom survey development to collect quantitative data
 
 ## Repository Structure
-- `Data/`: Contains the dataset collected from the consumer survey.
-- `Analysis/`: Includes the PowerPoint presentation summarizing findings and recommendations (`Philips_Product_Positioning_Presentation.pptx`).
-- `Media/`: Unlisted YouTube link to the video presentation explaining the project methodology, findings, and recommendations.
+- `Data/`: Contains the survey dataset (`Dataset.xlsx`).
+- `Analysis/`: Includes the descriptive analysis and regression analysis report (`Descriptive Analysis of Philips Earphones New + Interpretation.docx`).
+- `Presentation/`: Final PowerPoint presentation with business insights and recommendations (`Presentation.pptx`).
+
 
 ## Key Insights
-- **Competitive Landscape**: Analysis revealed key competitors and market trends for Product X, providing insights into strengths and gaps in the current market.
-- **Consumer Preferences**: Survey results indicated that consumers prioritize features like affordability, quality, and brand reputation when purchasing similar products.
-- **Positioning Strategy**: Based on the findings, recommended positioning strategies focused on highlighting unique features and aligning with identified consumer needs.
+- **Consumer Preferences**: Younger consumers (average age 25) showed a preference for wireless earphones priced at $115, highlighting the demand for affordable but high-tech products.
+- **Significant Predictors**: Regression analysis identified wireless features, brand reputation, and price as key factors influencing purchasing decisions.
+- **Market Trends**: The analysis revealed a growing preference for "true wireless" features among tech-savvy consumers.
+- **Business Recommendations**: Philips should emphasize their product’s advanced wireless capabilities and target younger demographics with digital marketing campaigns.
 
 ## Instructions
 1. Clone this repository.
-2. Review the `Data/` folder for the collected consumer survey dataset.
-3. Open `Philips_Product_Positioning_Presentation.pptx` in the `Analysis/` folder to explore the project findings and recommendations.
-4. View the video summary on YouTube (link provided in the `Media/` folder) to understand the methodology and insights in detail.
+2. Access the `Data` folder to review the survey dataset (`Dataset.xlsx`).
+3. Open the `Analysis` folder to read detailed insights in `Descriptive Analysis of Philips Earphones New + Interpretation.docx`.
+4. Review the `Presentation` folder for the PowerPoint slides showcasing findings and business recommendations.
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/stefano-compagnone98/) for more information or explore my other projects on GitHub.
